@@ -8,4 +8,4 @@ const pool = new Pool({
     database: "agri_manager"
 });
 
-// module.exports = pool;
+module.exports = pool;
